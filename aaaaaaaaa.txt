@@ -1,0 +1,26 @@
+
+SPYS.ONE	
+General proxy list
+Proxy servers by country
+Check your IP
+IP check
+Universal Whois
+Checking proxy lists
+Check proxy server
+Ping IP
+Traceroute IP
+Free real-time updatable HTTP, SSL and SOCKS proxy servers
+IP address and port	Type of	Anonymity	Country	Uptime	Check date
+138.3.223.120:3128	HTTP !	NOA	Japan	24% (9) -	24:10:21 01:26:36
+49.145.252.227:8080	HTTP S !	NOA	Philippines	33% (1) +	24:10:21 01:25:58
+45.65.247.67:8080	HTTP !	NOA	Dominican Republic	22% (5) -	24:10:21 01:24:58
+185.83.197.154:8080	HTTP !	NOA	Iran	36% (190) -	24:10:21 01:22:50
+75.119.157.187:3128	HTTP S !	NOA	Germany	50% (15) +	24:10:21 01:21:10
+79.120.177.106:8080	HTTP !	NOA	Hungary	63% (1472) -	24:10:21 01:21:08
+37.112.211.235:55443	HTTP S	HIA	Russia	33% (1) -	24:10:21 01:20:16
+79.119.253.146:53281	HTTP !	NOA	Romania	67% (2) -	24:10:21 01:19:26
+209.141.62.66:808	HTTP	ANM	USA	25% (5) +	24:10:21 01:18:36
+91.204.154.238:8080	HTTP	HIA	Poland	20% (29) -	24:10:21 01:16:53
+202.153.41.210:83	HTTP !	NOA	India	8% (1) -	24:10:21 01:15:40
+176.123.3.242:3128	HTTP !	NOA	Moldova	50% (2) +	24:10:21 01:12:01
+186.96.110.154:999
